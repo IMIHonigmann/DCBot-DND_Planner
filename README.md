@@ -1,4 +1,7 @@
 <h1> DND-Planner </h1>
+
+![image](https://github.com/IMIHonigmann/DCBot-DND_Planner/assets/129157644/e828a6b2-ab5d-4a55-84c3-d497a10e3bf6)
+
 <h2> Why (What problem did this solve)? </h2>
 <h3> Problem 1 </h3>
 <p> Summer vacation at our university just started which caused a problem. When it's summer everyone just wants to go out and do stuff spontaneously. In other words: Scheduling a certain day every week is impossible </p>
